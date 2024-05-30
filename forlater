@@ -1,0 +1,16 @@
+<form name="myform" method="GET" action="<?php echo esc_url(home_url('/'));?>">
+
+    <?php if (class_exists('WooCommerce')): ?>
+    <input type="hidden" value="product" name="post_type">
+    <?php endif;?>
+    <input type="text"  name="s" class="searchbox" maxlength="128" value="<?php echo get_search_query();?>" placeholder="<?php esc_attr_e('Search entire store here...', 'woocommerce');?>">
+
+    <button type="submit" title="<?php esc_attr_e('Search', 'woocommerce');?>" class="search-btn-bg"><span><?php esc_attr_e('Search', 'woocommerce');?></span></button>
+			
+</form>
+
+<button 
+id="theme-toggler" 
+class="cursor-pointer bg-secondary white" 
+aria-pressed="false"
+>theme toggler</button>

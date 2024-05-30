@@ -1,0 +1,18 @@
+.text-justify-xxl {
+  text-align: justify;
+}
+.text-wrap-xxl {
+  white-space: normal;
+}
+.text-nowrap-xxl {
+  white-space: nowrap;
+}
+.text-center-xxl {
+  text-align: center;
+}
+.text-right-xxl {
+  text-align: right;
+}
+.text-left-xxl {
+  text-align: left;
+}
