@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
+visit the ecommerce that was made with this theme on https://blanke-tienda.com/
+
 _s
 ===
 
