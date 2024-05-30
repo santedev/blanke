@@ -3,7 +3,7 @@
 _s
 ===
 
-used _s as based of this theme
+used _s as base of this theme
 
 * A modern workflow with a pre-made command-line interface to turn your project into a more pleasant experience.
 * A just right amount of lean, well-commented, modern, HTML5 templates.
